@@ -1,5 +1,5 @@
 # annav2
-Agc Needs New Automation (ANNA). I'm tired of doing tedious manual work at my student assistant job, which can be automated. Therefore I aim to automate most of my work related to data augmentation and plotting.
+Agc Needs New Automation!. I'm tired of doing tedious manual work at my student assistant job, which can be automated. Therefore I aim to automate most of my work related to data augmentation and plotting.
 
 GOALS: Monthly QC memo:
 
