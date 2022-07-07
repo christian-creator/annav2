@@ -1,0 +1,9 @@
+
+- Both ANP0019 and ANP0020 has to check whether the date is in each line.
+        * Check how the pandas dataFrame looks when a date is missing - fixed
+
+- ANP0082
+        * Make the table so you can Ctrl+c-Ctrl+v when doing memos - Done!
+        
+- ANP0230
+        * Create the entire excel file with all Contact plates

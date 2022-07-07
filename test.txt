@@ -1,0 +1,12 @@
+     0_F8_3_sample  0_F8_3_mold  ...  0_A11_MSCII_sample  0_A11_MSCII_mold
+Jan              2            0  ...                 1.0               0.0
+Feb              1            0  ...                 NaN               NaN
+Mar              1            0  ...                 NaN               NaN
+
+[3 rows x 138 columns]
+     1_A13_sample  1_A13_mold  ...  1_F13_sample  1_F13_mold
+Jan             8           0  ...             8           0
+Feb             8           0  ...             8           0
+Mar             8           0  ...             8           0
+
+[3 rows x 34 columns]
